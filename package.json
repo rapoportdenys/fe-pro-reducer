@@ -1,0 +1,23 @@
+{
+  "name": "fe-pro-reducer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rammfall-edu/fe-pro-reducer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rammfall-edu/fe-pro-reducer/issues"
+  },
+  "homepage": "https://github.com/rammfall-edu/fe-pro-reducer#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
